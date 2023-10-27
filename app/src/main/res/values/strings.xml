@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">fragment_2</string>
+    <string name="halaman_satu">Halaman Satu</string>
+    <string name="halaman_dua">Halaman Dua</string>
+</resources>
